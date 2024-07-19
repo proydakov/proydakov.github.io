@@ -1,12 +1,12 @@
-# ZeptoBird Live Demo
+# PROYDAKOV personal page
 
-Source code
+Description
 -----------
 
-https://github.com/proydakov/zeptobird
+My personal page source code.
 
-Live Demo
----------
+Demo
+----
 
 https://proydakov.github.io
 
